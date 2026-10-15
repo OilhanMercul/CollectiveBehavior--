@@ -3,8 +3,8 @@
 ## Authors :
 
 - Moira Grozdanić
-- Raphaël Letourneur
-- Oïlhan Mercul
+- Raphaël Letourneur @raphltr
+- Oïlhan Mercul @OilhanMercul
 - Ljubiša Milovanović
 
 ## About :
